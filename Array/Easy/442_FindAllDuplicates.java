@@ -1,3 +1,4 @@
+package Array.Easy;
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         // same as 448 -> negative marketing technique
